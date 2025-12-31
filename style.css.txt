@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #000428, #004e92);
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: gold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: orange;
+}
